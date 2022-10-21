@@ -1,3 +1,2 @@
 descripcion de ni repositorio.
-
-esto es una modificacion d eprueba
+esto es una modificacion de prueba.
